@@ -6,10 +6,10 @@
 I'm **Daniel Winsness**, a passionate software engineer specializing in **iOS development, full-stack solutions, and machine learning security**. I thrive on building impactful applications that enhance user experience, drive innovation, and push technological boundaries.  
 
 ### 🔥 What I Do:
-- **iOS Engineer @ RVU Wallet** – Crafting **SwiftUI-based** fintech applications using **Core Data, Django, PostgreSQL, Firebase**, and **Google Cloud**.  
-- **Founder & President @ UNG App Development Club** – Leading **the largest computer science organization** at my university, mentoring developers, and fostering industry connections.  
-- **Full-Stack Developer** – Architecting scalable systems with **Node.js, PostgreSQL, Swift, and Firebase**, leveraging **MVVM & MVC** principles for clean, maintainable code.  
-- **Machine Learning Security Researcher** – Experimenting with adversarial attacks, **AI model backdoors**, and **HopSkipJump exploits** to enhance model robustness.  
+#### **iOS Engineer @ [RVU Wallet](https://www.rvuwallet.com/)** 
+– Crafting **SwiftUI-based** fintech applications using **Core Data, Django, PostgreSQL, Firebase**, and **Google Cloud**.  
+#### **Founder & President @ UNG App Development Club** 
+– Leading **the largest computer science organization** at my university, mentoring developers, and fostering industry connections.  
 
 ### 🛠️ Tech Stack:
 - **Languages:** Swift, Python, Java, JavaScript, C, SQL  

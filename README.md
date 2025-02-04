@@ -1,16 +1,14 @@
 ## Work Github
 [![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielrvuwallet)
-
 ## 🙋‍♂️ About Me  
 
 I'm **Daniel Winsness**, a passionate software engineer specializing in **iOS development, full-stack solutions, and machine learning security**. I thrive on building impactful applications that enhance user experience, drive innovation, and push technological boundaries.  
 
-### 🔥 What I Do:
-#### **iOS Engineer @ [RVU Wallet](https://www.rvuwallet.com/)** 
-– Crafting **SwiftUI-based** fintech applications using **Core Data, Django, PostgreSQL, Firebase**, and **Google Cloud**.  
-#### **Founder & President @ UNG App Development Club**  
+### **iOS Engineer @ [RVU Wallet](https://www.rvuwallet.com/)** 
+Crafting **SwiftUI-based** fintech applications using **Core Data, Django, PostgreSQL, Firebase**, and **Google Cloud**.  
+### **Founder & President @ UNG App Development Club**  
 [![UNG](https://img.shields.io/badge/UNG-00467F?style=for-the-badge&logo=academia&logoColor=white)](https://ung.edu/)  
-– Leading **the largest computer science organization** at my university, mentoring developers, and fostering industry connections.  
+Leading **the largest computer science organization** at my university, mentoring developers, and fostering industry connections.  
 
 ### 🛠️ Tech Stack:
 #### **Languages**

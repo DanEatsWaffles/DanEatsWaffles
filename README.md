@@ -1,8 +1,13 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-winsness-9aa063301/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.s.w/)
 ## 🙋‍♂️ About Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-winsness-9aa063301/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.s.w/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanEatsWaffles&label=Profile%20views&color=0e75b6&style=flat" alt="DanEatsWaffles" /> </p>  
 
 I'm **Daniel Winsness**, a passionate software engineer specializing in **iOS development, full-stack solutions, and machine learning security**. I thrive on building impactful applications that enhance user experience, drive innovation, and push technological boundaries.  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanEatsWaffles&" alt="DanEatsWaffles GitHub Streak" /></p>  
+
+## 🧳 Work
 ### **iOS Engineer @ [RVU Wallet](https://www.rvuwallet.com/)** 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielrvuwallet)  
 Crafting **SwiftUI-based** fintech applications using **Core Data, Django, PostgreSQL, Firebase**, and **Google Cloud**.  
@@ -22,13 +27,3 @@ Leading **the largest computer science organization** at my university, mentorin
 
 #### **Development Practices:**
 Agile, Scrum, Test-Driven Development, System Architecture
-
-### 🌎 What I’m Working On:
-- **ZigZag Social** – A **dual-native social media platform** built on **SwiftUI & PostGIS**, enabling real-time **location-based interactions**.  
-- **Android Microbial Defense Game** – A **tower defense strategy game** built in native Java using **MVC architecture**.  
-- **Cybersecurity Research** – Reverse-engineering security protocols for **satellite communications** in collaboration with **Georgia Tech**.  
-
-### 🎯 Future Goals:
-- Dive deeper into **machine learning security** & **adversarial AI**  
-- Expand **ZigZag Social** into a fully-fledged **cross-platform** social media ecosystem  
-- Continue **mentoring & fostering app development** in the community

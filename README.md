@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-winsness-9aa063301/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.s.w/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanEatsWaffles&theme=gruvbox-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DanEatsWaffles&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 I'm **Daniel Winsness**, a passionate software engineer specializing in **iOS development, full-stack solutions, and machine learning security**. I thrive on building impactful applications that enhance user experience, drive innovation, and push technological boundaries.  
 
